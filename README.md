@@ -118,9 +118,9 @@ The workflow for Phase 01 is structured into six sequential deployment stages:
 * **Objective:** Extract Kali Linux VM files prior to hypervisor import.
 * **Status:** ✅ Completed
 
-<img width="1838" height="878" alt="633734948-9ae264c3-6ac4-4186-9119-c63b742e4899" src="https://github.com/user-attachments/assets/567a86e7-5cb9-4b3b-b45d-6633ad649406" />
-<img width="570" height="265" alt="633808350-4b6c32b4-e0f5-49a6-832d-8f4e63847b56" src="https://github.com/user-attachments/assets/4c9cd211-c8e9-47c4-935a-2a1d3e1f0fbf" />
-<img width="561" height="365" alt="image" src="https://github.com/user-attachments/assets/d33eef88-7a00-4cbd-9fa3-22e3cc0f606c" />
+<img width="951" height="457" alt="image" src="https://github.com/user-attachments/assets/63bf75c4-2fe1-4e24-b5fa-896eb3e52216" />
+<img width="951" height="457" alt="633808350-4b6c32b4-e0f5-49a6-832d-8f4e63847b56" src="https://github.com/user-attachments/assets/4c9cd211-c8e9-47c4-935a-2a1d3e1f0fbf" />
+<img width="951" height="457" alt="image" src="https://github.com/user-attachments/assets/d33eef88-7a00-4cbd-9fa3-22e3cc0f606c" />
 
 
 ---
