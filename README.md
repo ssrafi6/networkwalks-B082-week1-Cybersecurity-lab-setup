@@ -39,17 +39,20 @@
 </p>
 
 ---
----
-
 ## 📋 Table of Contents
-
-1. [Lab Overview]
-2. [Lab Environment Specifications]
-3. [Lab Architecture]
-4. [Phase 01 — Step-by-Step Implementation]
-5. [Project Demo]
-6. [Key Takeaways & Learnings]
-7. [Ethics & Acknowledgments]
+1. [Lab Overview](#-lab-overview)
+2. [Lab Environment Specifications](#-lab-environment-specifications)
+3. [Lab Architecture](#-lab-architecture)
+4. [Phase 01 — Step-by-Step Implementation](#-phase-01-step-by-step-implementation)
+   * [1. 7-Zip Installation](#1-7-zip-installation)
+   * [2. Oracle VirtualBox Installation](#2-oracle-virtualbox-installation)
+   * [3. NAT Network Configuration](#3-nat-network-configuration)
+   * [4. Kali Linux VM Setup](#4-kali-linux-vm-setup)
+   * [5. Kali Linux Network Configuration](#5-kali-linux-network-configuration)
+   * [6. VirtualBox Snapshot Configuration](#6-virtualbox-snapshot-configuration)
+5. [Project Demo](#-project-demo)
+6. [Key Takeaways & Learnings](#-key-takeaways--learnings)
+7. [Ethics & Acknowledgments](#-ethics--acknowledgments)
 
 ---
 
@@ -244,4 +247,5 @@ A full walkthrough video of the environment deployment, network mapping, and val
 ### 📊 Phase 01 Progress: **6 / 6 Steps Completed (100%) ✅**
 
 > *🔐 Learn • Practice • Build • Secure*
-> **Networkwalks Cybersecurity Internship — Week 01**
+
+> **NetworkWalks Cybersecurity Internship — Week 01**
