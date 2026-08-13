@@ -22,7 +22,7 @@
 
   <img src="https://img.shields.io/badge/Virtualization-111827?style=for-the-badge&labelColor=2563EB&logo=virtualbox&logoColor=white" alt="Virtualization" />
 
-  <img src="https://img.shields.io/badge/NetworkWalks-111827?style=for-the-badge&labelColor=2563EB" alt="Networkwalks" />
+  <img src="https://img.shields.io/badge/Organization-Networkwalks-111827?style=for-the-badge&labelColor=DC2626" alt="Organization Networkwalks" />
 
   <img src="https://img.shields.io/badge/Mentor-Waqas%20Karim%20(CCIE)-111827?style=for-the-badge&labelColor=475569" alt="Waqas Karim CCIE" />
 
