@@ -12,7 +12,7 @@
 
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&labelColor=475569&logo=linux&logoColor=white" alt="Linux" />
 
-  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&labelColor=0891B2" alt="Networking" />
+  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0891B2" alt="Networking" />
 
   <img src="https://img.shields.io/badge/Penetration%20Testing-111827?style=for-the-badge&labelColor=7C3AED&logo=kalilinux&logoColor=white" alt="Penetration Testing" />
 
