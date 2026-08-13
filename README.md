@@ -193,10 +193,10 @@ DNS        : 8.8.8.8
 
 * **Commands Executed:**
 ```bash
-ifconfig
 sudo ifconfig eth0 down
 sudo ifconfig eth0 up
-ping -c 4 google.com
+ifconfig
+ping google.com -c 5 -t 10
 
 ```
 
