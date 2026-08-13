@@ -1,4 +1,3 @@
-/Test-1/
    <h1 align="center"> 💻 Cybersecurity Lab Environment Setup </h1>
 
 <p align="center">
@@ -23,16 +22,16 @@
 
   <img src="https://img.shields.io/badge/Virtualization-111827?style=for-the-badge&labelColor=2563EB&logo=virtualbox&logoColor=white" alt="Virtualization" />
 
-  <img src="https://img.shields.io/badge/Networkwalks-111827?style=for-the-badge&labelColor=2563EB" alt="Networkwalks" />
+  <img src="https://img.shields.io/badge/NetworkWalks-111827?style=for-the-badge&labelColor=2563EB" alt="Networkwalks" />
 
   <img src="https://img.shields.io/badge/Mentor-Waqas%20Karim%20(CCIE)-111827?style=for-the-badge&labelColor=475569" alt="Waqas Karim CCIE" />
 
-  <img src="https://img.shields.io/badge/Developer-Syed%20Bilal%20Ahmed-111827?style=for-the-badge&labelColor=0F766E&logo=github&logoColor=white" alt="Syed Bilal Ahmed" />
+  <img src="https://img.shields.io/badge/Developer-SHADMAN%20SHAKIB%20RAFI-111827?style=for-the-badge&labelColor=0F766E&logo=github&logoColor=white" alt="Syed Bilal Ahmed" />
 </p>
 <p align="center">
   <strong
      
-  <strong>networkwalks-B082-week1-Cybersecurity-lab-setup</strong>
+  <strong>NetworkWalks-B082-Week1-Cybersecurity-Lab-Setup</strong>
 </p>
 
 <p align="center">
