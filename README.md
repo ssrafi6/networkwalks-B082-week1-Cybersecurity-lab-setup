@@ -246,6 +246,6 @@ A full walkthrough video of the environment deployment, network mapping, and val
 
 ### 📊 Phase 01 Progress: **6 / 6 Steps Completed (100%) ✅**
 
-> *🔐 Learn • Practice • Build • Secure*
+> 🔐 Learn • Practice • Build • Secure
 
 > **NetworkWalks Cybersecurity Internship — Week 01**
