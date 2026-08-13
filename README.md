@@ -41,7 +41,7 @@
 ---
 ## 📋 Table of Contents
 1. [Lab Overview](#-lab-overview)
-2. [Lab Environment Specifications](#-lab-environment-specifications)
+2. **[Lab Environment Specifications](https://github.com/ssrafi6/networkwalks-B082-week1-Cybersecurity-lab-setup/edit/main/README.md#%EF%B8%8F-lab-environment-specifications)**
 3. [Lab Architecture](#-lab-architecture)
 4. [Phase 01 — Step-by-Step Implementation](#-phase-01-step-by-step-implementation)
    * [1. 7-Zip Installation](#1-7-zip-installation)
